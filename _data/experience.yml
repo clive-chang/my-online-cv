@@ -1,20 +1,25 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: YTML Consulting Group
+  link: ytml.com.au
+  job_title: Web Developer
+  dates: July 2016 – Present
   quote: >
-   Short description of the company (optional)
+   
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Provided development, maintenance and support for YTML’s client base on financial planning technology solutions. | Completed applications development through liaising with stakeholders to transform business requirements into well-designed, testable, efficient code. Integrated data into front-end solutions from various back-end services and databases. Developed user documentation and assistance tools. Provided technical assistance on web solutions to clients. Guided, trained and coached junior members in the team. | Achievements include helping growing the support team from 3 to 8 people over 2 years. Managed and executed a client-wide template upgrade by liaising with key stakeholders, company management and the broader team.
+
 
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: YTML Consulting Group
+  link: ytml.com.au
+  job_title: Internship
+  dates: March 2016 – July 2016
   quote: >
-   Short description of the company (optional)
+   
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Supported clients for YTML’s proprietary website management solution. |
+    Provided direct customer support and troubleshooting. Developed website templates and documentation. 
+    Major achievement was the application of theoretical coding knowledge into a real-world business scenario that ultimately led to delivery of several website templates for clients in a short time frame.
+
+
